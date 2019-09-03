@@ -70,7 +70,7 @@ public class Tab1 extends Fragment {
 
     RecyclerView recyclerView1, recyclerView2, recyclerView3, recyclerView4;
     /* Please Put your API KEY here */
-    private String OPEN_WEATHER_MAP_API = "c546ec57ad58273d9e4c1bbea6f1c672";
+    private String OPEN_WEATHER_MAP_API = "";
 
     public void onAttach(Context context) {
         super.onAttach(context);
