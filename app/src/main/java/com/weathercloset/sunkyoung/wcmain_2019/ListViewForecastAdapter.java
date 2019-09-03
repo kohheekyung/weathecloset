@@ -15,6 +15,7 @@ public class ListViewForecastAdapter extends BaseAdapter {
     private ArrayList<ListViewForecast> listViewForecastList = new ArrayList<ListViewForecast>() ;
 
     public ListViewForecastAdapter() {
+
     }
 
     // Adapter에 사용되는 데이터의 개수를 리턴. : 필수 구현
